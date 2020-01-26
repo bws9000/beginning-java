@@ -1,2 +1,2 @@
 # beginning-java
-Java Beginners
+Files for Beggining Java Instruction by Burt Snyder
