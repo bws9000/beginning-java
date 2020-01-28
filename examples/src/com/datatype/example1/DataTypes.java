@@ -26,7 +26,7 @@ public class DataTypes {
         System.out.println("char: " + charVar);
         System.out.println("boolean: " + boolVar);
 
-        //some not primitives
+        //some non primitives
         String stringExample = "Hi, I'm a string.";
         System.out.println(stringExample);
 
