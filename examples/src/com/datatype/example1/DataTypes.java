@@ -31,7 +31,7 @@ public class DataTypes {
         System.out.println(stringExample);
 
         String stringExample2;
-        stringExample2 = ("b:" + byteVar + " i:" + intVar);
+        stringExample2 = "b:" + byteVar + " i:" + intVar;
         System.out.println(stringExample2);
 
         int[] aArray;
