@@ -1,9 +1,9 @@
-package com.command;
+package com.command.example1;
 
 import java.util.Scanner;
 
 /**
- * command line example
+ * command line example1
  * @author burtsnyder
  */
 public class CommandLine {
