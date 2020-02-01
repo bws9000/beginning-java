@@ -1,7 +1,7 @@
 package com.datatype.example1;
 
 /**
- * command line example1
+ * data types overview
  * @author burtsnyder
  */
 public class DataTypes {
