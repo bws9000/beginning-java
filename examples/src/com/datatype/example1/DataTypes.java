@@ -5,6 +5,7 @@ package com.datatype.example1;
  * @author burtsnyder
  */
 public class DataTypes {
+
     public static void main(String[] argv) {
 
         //primitive data types
@@ -17,7 +18,7 @@ public class DataTypes {
         char charVar = 'a';
         boolean boolVar = true; //true or false
 
-        System.out.println("byte: " + byteVar);
+        System.out.println(""+byteVar);
         System.out.println("int: " + intVar);
         System.out.println("double: " + doubleVar);
         System.out.println("float: " + floatVar);
