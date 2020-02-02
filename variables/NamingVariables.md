@@ -1,5 +1,5 @@
-#Variables
-##Naming Conventions
+# Variables
+## Naming Conventions
 Variable names are **case sensitive**.
 
 For example:
@@ -11,25 +11,25 @@ myVariable and MyVariable are two different variables.
 
 *A variable should start with a lowercase letter.*
 
-###Recommended Legal Class Name Example
+### Recommended Legal Class Name Example
 * MyClassName
 
-##Recommended Legal Variable Name Example
+## Recommended Legal Variable Name Example
 * myVariable
 
 You can start a variable with an '$' or '_' character but it is not recommended. Your name should make an effort to describe the purpose of the variable if you can.
 
-###Bad Naming Practice
-####bad variable names:
+### Bad Naming Practice
+#### bad variable names:
 * $myVar
 * $12345
 * _variable2
-####bad class names:
+#### bad class names:
 * myclass
 * _Myclass
 * $fdsa
 
-###Constant Variable names:
+### Constant Variable names:
 * STEERING_WHEEL = 1
 * WHEEL_NUMBER = 4
 
