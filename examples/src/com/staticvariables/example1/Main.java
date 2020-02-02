@@ -12,9 +12,9 @@ public class Main {
         app2.addToStaticCount();
         app3.addToStaticCount();
 
-        System.out.println(app1.COUNT_ME);
-        System.out.println(app2.COUNT_ME);
-        System.out.println(app3.COUNT_ME);
+        System.out.println(app1.staticCountMe);
+        System.out.println(app2.staticCountMe);
+        System.out.println(app3.staticCountMe);
 
         //non static variable example
         Application app4 = new Application();

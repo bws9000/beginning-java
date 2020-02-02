@@ -7,11 +7,11 @@ public class Application {
     For example, the main method.
     */
 
-    public static int COUNT_ME = 0;
+    public static int staticCountMe = 0;
     public int countMe = 0;
 
     public void addToStaticCount() {
-        COUNT_ME = COUNT_ME + 1;
+        staticCountMe = staticCountMe + 1;
         //could also write COUNT_ME++
     }
 
