@@ -15,6 +15,8 @@ public class Main {
         System.out.println(app1.staticCountMe);
         System.out.println(app2.staticCountMe);
         System.out.println(app3.staticCountMe);
+        //System.out.println(Application.staticCountMe);
+
 
         //non static variable example
         Application app4 = new Application();

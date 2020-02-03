@@ -12,12 +12,12 @@ public class Application {
 
     public void addToStaticCount() {
         staticCountMe = staticCountMe + 1;
-        //could also write COUNT_ME++
+        //you could also write staticCountMe++
     }
 
     public void addToCount() {
         this.countMe = this.countMe + 1;
-        //could also write this.countMe++
+        //you could also write this.countMe++
     }
 
     public static void main(String[] args) {
