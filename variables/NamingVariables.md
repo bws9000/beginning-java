@@ -11,7 +11,7 @@ myVariable and MyVariable are two different variables.
 
 *A variable should start with a lowercase letter.*
 
-### Recommended Legal Class Name Example
+## Recommended Legal Class Name Example
 * MyClassName
 
 ## Recommended Legal Variable Name Example
@@ -33,6 +33,9 @@ You can start a variable with an '$' or '_' character but it is not recommended.
 * STEERING_WHEEL = 1
 * WHEEL_NUMBER = 4
 
+### Static Variables:
+[Static Variables]
+
 
 Naming source:
 [Oracle Naming]
@@ -43,3 +46,4 @@ There are **reserved keywords** in Java that you cannot use. The full list is he
 
 [Reserved]:https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
 [Oracle Naming]:https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html#naming
+[Static Variables]:https://github.com/bws9000/beginning-java/blob/master/examples/src/com/staticvariables/StaticVariables.md
