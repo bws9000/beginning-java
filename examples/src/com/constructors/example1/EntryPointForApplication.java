@@ -8,6 +8,7 @@ package com.constructors.example1;
 public class EntryPointForApplication {
 
     public static void main(String[] argv) {
+
         Application app = new Application();
     }
 

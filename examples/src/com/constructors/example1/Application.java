@@ -6,8 +6,13 @@ package com.constructors.example1;
  * @author burtsnyder
  */
 public class Application {
+
     Application() {
         System.out.println("No params in constructor.");
+    }
+
+    void Application() {
 
     }
+
 }
