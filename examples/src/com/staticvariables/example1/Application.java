@@ -1,5 +1,10 @@
 package com.staticvariables.example1;
 
+/**
+ * static variables
+ *
+ * @author burtsnyder
+ */
 public class Application {
 
     /*
